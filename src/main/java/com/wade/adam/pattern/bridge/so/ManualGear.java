@@ -7,4 +7,5 @@ public class ManualGear implements Gear {
         System.out.println("Manual Gear");
     }
 
+
 }
