@@ -2,13 +2,13 @@ package com.wade.adam.pattern.iterator.banas;
 
 import java.util.Iterator;
 
-public class DiskJockey {
+public class DiscJockey {
 
     private SongIterator iter70sSongs;
     private SongIterator iter80sSongs;
     private SongIterator iter90sSongs;
 
-    public DiskJockey(SongIterator iter70sSongs, SongIterator iter80sSongs, SongIterator iter90sSongs) {
+    public DiscJockey(SongIterator iter70sSongs, SongIterator iter80sSongs, SongIterator iter90sSongs) {
         this.iter70sSongs = iter70sSongs;
         this.iter80sSongs = iter80sSongs;
         this.iter90sSongs = iter90sSongs;
