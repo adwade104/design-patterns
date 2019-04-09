@@ -12,7 +12,7 @@ All examples are completely self contained.
 
 Sources:
 
-banas - Derek Banas Design Patterns Tutorial Playlist
+banas - Derek Banas Design Patterns Tutorial Playlist \n
 https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07&index=1
 
 tp - Tutorials Point
