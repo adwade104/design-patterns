@@ -6,9 +6,9 @@ Please run with Java 8+
 
 Description:
 
-Went through all of Derek Bana's design pattern tutorial videos and coded them up.  <br />
-Went to tutorials point and wikipedia and coded examples found there.
-All examples are completely self contained.
+Went through all of Derek Bana's design pattern tutorial videos and coded them up. <br /> 
+Went to tutorials point and wikipedia and coded examples found there. <br />
+All examples are completely self contained. <br />
 
 Sources:
 
